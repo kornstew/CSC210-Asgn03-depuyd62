@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Damian\'s Scrapbook</string>
+    <string name="giza">whatIsThis</string>
+    <string name="sphinx">sphinx</string>
+    <string name="thegiza">giza</string>
+    <string name="sphinxText">Sphinx</string>
+    <string name="gizaPic">giza</string>
+    <string name="sphinxPic">sphinx</string>
+    <string name="the_sphinx_is_amazing">The Sphinx is amazing!</string>
+    <string name="the_great_pyamid_of_giza">The Great Pyamid of Giza!</string>
+</resources>
